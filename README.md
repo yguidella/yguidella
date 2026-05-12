@@ -1,9 +1,10 @@
 # 👽Oi, eu sou a Yasmin Guidella
 
-Desenvolvedora Full Stack JavaScript em formação, formada em Análise e Desenvolvimento de Sistemas(ProUni) e apaixonada por tecnologia, criatividade e aprendizado constante.
-Atualmente estudo desenvolvimento Full Stack pela Generation Brasil, onde utilizamos Node.js, TypeScript, NestJS, HTML, CSS, JavaSript.
-Antes da tecnologia, trabalhei durante anos com atendimento ao público, produção cultural e ambientes dinâmicos. Essa experiência desenvolveu minha comunicação, organização, adaptabilidade e resolução de problemas — habilidades que hoje aplico diretamente no desenvolvimento de software.
-Gosto de criar soluções funcionais, entender como as coisas funcionam por trás e transformar aprendizado em projetos reais e criativos.
+Desenvolvedora Full Stack JavaScript em formação, formada em Análise e Desenvolvimento de Sistemas(ProUni) e apaixonada por tecnologia e cultura.
+Atualmente estudo desenvolvimento Full Stack pela Generation Brasil, onde utilizamos Node.js, TypeScript, NestJS, HTML, CSS e JavaScript.
+Antes da tecnologia, trabalhei durante anos com atendimento ao público, produção cultural e ambientes dinâmicos. Essa experiência desenvolveu minha comunicação, organização, adaptabilidade, trabalho em equipe e resolução de problemas — habilidades que hoje aplico diretamente no desenvolvimento de software.
+Gosto de criar soluções funcionais, entender como as coisas funcionam por trás e transformar aprendizado em projetos reais e criativos. 
+Estou em aprendizado constante!
 
 ☕ café  
 🎭 cultura e arte  
