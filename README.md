@@ -128,6 +128,6 @@ Conseguir minha primeira oportunidade como desenvolvedora Full Stack JavaScript,
 
 <div align="center">
 
-✨ ###“Se há um problema, crio uma solução criativa!” ✨
+✨ “Se há um problema, crio uma solução criativa!” ✨
 
 </div>
