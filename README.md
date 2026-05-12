@@ -88,6 +88,25 @@ Conseguir minha primeira oportunidade como desenvolvedora Full Stack JavaScript,
 
 ---
 
+## 🛸 Projetos Realizados
+
+### 👩‍💻 Projetos Individuais
+
+| Projeto | Tecnologias | Descrição |
+|----------|-------------|------------|
+| [🌌 Portfolio](https://github.com/yguidella/portfolio) | GitHub API • JavaScript (DOM) • HTML5 • CSS3 • SwiperJS | Portfólio autoral com consumo dinâmico da API do GitHub e responsividade adaptativa para diferentes dispositivos. |
+| [📝 Blog Pessoal](https://github.com/yguidella/blogpessoal) | NestJS • TypeScript • MySQL • Swagger • Render | API REST com autenticação, CRUD completo, documentação interativa utilizando Swagger e Deploy pelo Render. |
+| [🛍️ ArtIndie](https://github.com/yguidella/projeto_ecommerce_artindie) | Node.js • JavaScript • TypeScript | E-commerce focado em arquitetura organizada e experiência do usuário |
+
+### 🤝 Projetos em Equipe
+
+| Projeto | Tecnologias | Descrição |
+|----------|-------------|------------|
+| [🍔 Rangoo](https://github.com/yguidella/rangoo_nest) | NestJS • PostgreSQL • TypeScript • Swagger • Render | Sistema Back-end para delivery com persistência de dados, arquitetura escalável e deploy. |
+| [♿ Rota Inclusiva](https://github.com/yguidella/rotainclusiva_nest) | NestJS • MySQL • TypeScript • Insomnia | API REST voltada para impacto social e mobilidade urbana acessível e inclusiva. |
+
+⭐ Para mais projetos, acesse meus repositórios! :)
+
 # 📫 contato
 
 <div>
