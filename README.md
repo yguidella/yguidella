@@ -54,13 +54,14 @@ Estou em aprendizado constante!
 
 # 📊 GitHub Stats
 
-<div align="center">
+# 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yguidella&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yguidella&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-</div>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yguidella&theme=github-dark-blue&hide_border=true"
+  />
+</p>
 
 ---
 
