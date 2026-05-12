@@ -89,9 +89,9 @@ Conseguir minha primeira oportunidade como desenvolvedora Full Stack JavaScript,
 
 ---
 
-### 🛸 Projetos Realizados
+# 🛸 Projetos Realizados
 
-## 👩‍💻 Projetos Individuais
+### 👩‍💻 Projetos Individuais
 
 | Projeto | Tecnologias | Descrição |
 |----------|-------------|------------|
@@ -99,7 +99,7 @@ Conseguir minha primeira oportunidade como desenvolvedora Full Stack JavaScript,
 | [📝 Blog Pessoal](https://github.com/yguidella/blogpessoal) | NestJS • TypeScript • MySQL • Swagger • Render | API REST com autenticação, CRUD completo, documentação interativa utilizando Swagger e Deploy pelo Render. |
 | [🛍️ ArtIndie](https://github.com/yguidella/projeto_ecommerce_artindie) | Node.js • JavaScript • TypeScript | E-commerce focado em arquitetura organizada e experiência do usuário |
 
-## 🤝 Projetos em Equipe
+### 🤝 Projetos em Equipe
 
 | Projeto | Tecnologias | Descrição |
 |----------|-------------|------------|
@@ -128,6 +128,6 @@ Conseguir minha primeira oportunidade como desenvolvedora Full Stack JavaScript,
 
 <div align="center">
 
-###✨ “Se há um problema, crio uma solução criativa!” ✨
+✨ ###“Se há um problema, crio uma solução criativa!” ✨
 
 </div>
