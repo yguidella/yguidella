@@ -54,8 +54,6 @@ Estou em aprendizado constante!
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
   <img
     height="180em"
